@@ -1,7 +1,7 @@
 name: omstudio
 favicon: null
 layout_spectrum: 0.1330139795318246
-typography_spectrum: 0.2596721677109599
+typography_spectrum: 0.14448
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#34393c'
+    - '#477132'
+    - '#7b7874'
+    - '#1b1c18'
+    - '#75953f'
   brandStrength: 0.6850091458763927
   lightness: 0.5774103777948767
   saturation: 0.851752859307453
