@@ -2,6 +2,7 @@ name: omstudio
 favicon: null
 layout_spectrum: 0.1330139795318246
 typography_spectrum: 0.14448
+title: OM Studio Design
 cta:
   domain: null
   bucket: null
